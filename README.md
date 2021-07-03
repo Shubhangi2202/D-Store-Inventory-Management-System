@@ -1,2 +1,0 @@
-# D-Store-Inventory-Management-System
-The Dead stock management System is use to handle the Dead stock of the college. Here DRS Officer can get information about the dead stock that how many stock are available and he/she can order the number of dead stock which will be needed for the department. The Dead stock are like Furniture, Peripheral Device, Stationary Equipment, Electrical Devices, Expandable /Consumable, Etc. Dead Stock management system is basically used for manage the records of college Dead stocks.
